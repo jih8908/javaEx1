@@ -11,7 +11,9 @@ public class Review {
 //         3. hong 객채에서 setInfo를 통해 값 입력(나이 : 20, 성별 : 남)
 //         4. hong 객체에서 getAge 호출 후 해당 값 출력
 		
-		Student hong = new Student(1234, "홍길동동");
+		Student test = new Student();//기본생성자 호출
+		
+		Student hong = new Student(1234, "홍길동");
 		Student yu = new Student(1357, "유재석","컴퓨터공학과");
 				
 		hong.setInfo(20,"남");

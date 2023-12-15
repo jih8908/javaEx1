@@ -4,7 +4,7 @@ public class Human {
 	String name;
 	int age;
 	String phone;
-	String bloodType;
+	String bloodType;//class 생성
 	
 	Human(String name, int age){
 		this.name = name;

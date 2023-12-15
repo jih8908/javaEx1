@@ -15,7 +15,7 @@ public class Calculator {
 	double sum(int x, double y) { //매개변수(파라미터)의 타입이 다르거나
 		return x + y;
 	}
-	
+	 
 }//class
 //오버로딩 가능한
 //1. 매개변수의 개수가 다르거나

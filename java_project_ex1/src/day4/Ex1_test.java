@@ -3,7 +3,7 @@ package day4;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Ex1 {
+public class Ex1_test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -59,8 +59,8 @@ public class Ex1 {
 		int num1 = s.nextInt();
 		
 		
-		for (ran <= 100; ran =1; ran++) {
-			if(ran < num1) {
+		for (int i = 1; i <= 100; i++) {
+			if(i < num1) {
 				System.out.println("큰 수");
 			}else {
 				System.out.println("작은 수");
@@ -82,11 +82,7 @@ public class Ex1 {
 		
 
 		
-		int sum = i
-		for(int i  ) {
-			
-		} 
-		
+
 		//문제7번
 
 		
